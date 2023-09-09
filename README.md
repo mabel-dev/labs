@@ -1,4 +1,4 @@
-# Opteryx Hands-on Labs
+# Opteryx Labs
 
 Welcome to the Opteryx Labs! These hands-on labs are designed to get you up and running with Opteryx, starting from the basics and gradually advancing to more complex operations.
 
@@ -14,13 +14,13 @@ Each lab is presented as a Jupyter Notebook. To get started:
 - **Navigate to the Labs**: Each lab in the "Opteryx 101" folder has a short description, labs will open in a Notebook.
 - **Run Cells**: Follow the instructions in each lab to run the Notebook cells and complete the exercises.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mabel-dev/examples/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mabel-dev/labs/HEAD)
 
 # Prerequisites
 Basic understanding of SQL and Python is helpful but not mandatory.
 
 # Contributions
-Feel free to contribute by submitting pull requests or by reporting issues via [GitHub](https://github.com/mabel-dev/examples).
+Feel free to contribute by submitting pull requests or by reporting issues via [GitHub](https://github.com/mabel-dev/labs).
 
 # License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
