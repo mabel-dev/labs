@@ -22,6 +22,6 @@ Basic understanding of SQL and Python is helpful but not mandatory.
 # Contributions
 Feel free to contribute by submitting pull requests or by reporting issues via [GitHub](https://github.com/mabel-dev/labs).
 
-# License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+# License
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
 
